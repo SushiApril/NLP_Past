@@ -9,4 +9,4 @@ document.querySelector("[name='sentence']").addEventListener("keyup", async even
     const pastTense = await request.json();
     
     document.querySelector("#output").innerHTML = pastTense.text;
-});
+}); 

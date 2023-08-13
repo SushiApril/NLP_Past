@@ -1,8 +1,7 @@
 html, body
 {
-    background:#ECE8E0;
+    background-size: cover;
     font-family: Arial, sans-serif;
-    height:100%;
     display: inline-flex;
     align-items: center;
     justify-content: center;
